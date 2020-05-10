@@ -12,6 +12,8 @@ Define the problem and project objectives.
 2. Relationship Manager (RM)
 3. Project Manager
 
+![Empathy Map - Branch Manager](/assets/Empathy%20Map%20-%20Branch%20Manager.png)
+
 # Design Approach
 Describe the AGILE approach (Scrum) used in this project and explain why it was chosen. Outline the Scrum activities used during this project.
 
