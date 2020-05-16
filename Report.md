@@ -10,7 +10,7 @@ Define the problem and project objectives.
 # Stakeholders
 |   Stakeholder          |   Interests   |     Impact   | Priority|
 | ---------------------  | ------------- | ------------ | ------- |
-|Relationship Manager    |               |              |         |
+|Relationship Manager    |Buying Experience             |              |         |
 | Customer               |               |              |         |
 | Project Manager        |               |              |         |
 |Call Centre Representive|
