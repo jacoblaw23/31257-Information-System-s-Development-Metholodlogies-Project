@@ -10,8 +10,8 @@ Define the problem and project objectives.
 # Stakeholders
 | First Header  | Second Header | Third Header | Fourth |
 | ------------- | ------------- | ------------ | ------ |
-| Content Cell  | Content Cell  |              |        |
-| Content Cell  | Content Cell  |              |        |
+|               |               |              |        |
+|               |               |              |        |
 1. Customer
 2. Relationship Manager (RM)
 3. Project Manager
