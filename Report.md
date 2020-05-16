@@ -16,9 +16,8 @@ The business has experienced an increasing number of customer complaints related
 The business aims to resolve the above problems using an IT solution, with the goal being an improved customer experience.
 
 # Stakeholders
-1. Customer
-2. Relationship Manager (RM)
-3. Project Manager
+![Stakeholders](diagarms/stakeholdertable.png)
+
 
 ![Empathy Map - Branch Manager](/assets/Empathy%20Map%20-%20Branch%20Manager.png)
 
