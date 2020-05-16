@@ -12,6 +12,7 @@ Define the problem and project objectives.
 | ---------------------  | -----------------------  | ------------ | ------- |
 |Relationship Manager    |                          |              |         |
 | Customer               |Buying Experience         |              |         |
+|                        |Variety of Packages       |              |         |
 |                        |                          |              |         |
 | Project Manager        |                          |              |         |
 |Call Centre Representive|
