@@ -8,14 +8,7 @@ Summary of report contents. Should be written after the rest of the report.
 Define the problem and project objectives.
 
 # Stakeholders
-|   Stakeholder           |   Interests              |     Impact     | Priority |
-|-------------------------|--------------------------|----------------|----------|
-| Relationship Manager    |                          |                |          |
-|     Customer            | Buying Experience<br>Variety of Packages     |          |
-|                         |                          |                |          |
-|                         |                          |                |          |
-| Project Manager         |                          |                |          |
-| Call Centre Representive|
+
 
 1. Customer
 2. Relationship Manager (RM)
