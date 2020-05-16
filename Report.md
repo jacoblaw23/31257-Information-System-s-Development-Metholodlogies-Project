@@ -8,7 +8,7 @@ Summary of report contents. Should be written after the rest of the report.
 Define the problem and project objectives.
 
 # Stakeholders
-![]
+![](/31257-Information-System-s-Development-Metholodlogies-Project/Anlayze table.JPG)
 
 1. Customer
 2. Relationship Manager (RM)
