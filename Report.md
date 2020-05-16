@@ -10,10 +10,6 @@ Define the problem and project objectives.
 # Stakeholders
 ![Stakeholders](diagarms/stakeholdertable.png)
 
-1. Customer
-2. Relationship Manager (RM)
-3. Project Manager
-4. Call Centre Representive
 
 ![Empathy Map - Branch Manager](/assets/Empathy%20Map%20-%20Branch%20Manager.png)
 
