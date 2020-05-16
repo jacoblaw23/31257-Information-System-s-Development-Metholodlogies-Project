@@ -11,7 +11,7 @@ Define the problem and project objectives.
 |   Stakeholder           |   Interests              |     Impact     | Priority |
 |-------------------------|--------------------------|----------------|----------|
 | Relationship Manager    |                          |                |          |
-|     Customer            | Buying Experience Variety of Packages     |          |
+|     Customer            | Buying Experience<br>Variety of Packages     |          |
 |                         |                          |                |          |
 |                         |                          |                |          |
 | Project Manager         |                          |                |          |
