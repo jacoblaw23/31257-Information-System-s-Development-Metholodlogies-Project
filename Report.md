@@ -8,7 +8,7 @@ Summary of report contents. Should be written after the rest of the report.
 Define the problem and project objectives.
 
 # Stakeholders
-
+![]
 
 1. Customer
 2. Relationship Manager (RM)
