@@ -8,8 +8,8 @@ Summary of report contents. Should be written after the rest of the report.
 Define the problem and project objectives.
 
 # Stakeholders
-| First Header  | Second Header |
-| ------------- | ------------- |
+| First Header  | Second Header | Third Header |
+| ------------- | ------------- | ------------ |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 1. Customer
