@@ -8,10 +8,11 @@ Summary of report contents. Should be written after the rest of the report.
 Define the problem and project objectives.
 
 # Stakeholders
-| First Header  | Second Header | Third Header | Fourth |
-| ------------- | ------------- | ------------ | ------ |
-|               |               |              |        |
-|               |               |              |        |
+|   Stakeholder       | Second Header | Third Header | Fourth |
+| ------------------- | ------------- | ------------ | ------ |
+|Relationship Manager |               |              |        |
+| Customer            |               |              |        |
+
 1. Customer
 2. Relationship Manager (RM)
 3. Project Manager
