@@ -12,7 +12,7 @@ Define the problem and project objectives.
 
 
 ![Empathy Map - Branch Manager](/assets/Empathy%20Map%20-%20Branch%20Manager.png)
-![Customer-Empathy map](diagarms/Customer-Empathy map.png)
+![Customer-Empathy map.png](diagarms/Customer-Empathy map.png)
 
 # Design Approach
 Describe the AGILE approach (Scrum) used in this project and explain why it was chosen. Outline the Scrum activities used during this project.
