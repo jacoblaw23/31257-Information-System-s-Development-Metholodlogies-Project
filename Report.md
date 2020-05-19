@@ -9,14 +9,14 @@ Summary of report contents. Should be written after the rest of the report.
 The business has experienced an increasing number of customer complaints related to their experiences with the relationship manager (RM). Customers often described the RM as unknowledgeable about their desired travel package, and sometimes expressed disinterest in the product they were being sold.
 
 # Business Objectives
-Speed Up Responses and Reduce Abandons; fast response times and low abandon rates.
-Boost Customer Satisfaction
-Increase the Effectiveness of the Service Recovery Programmes
-Improve Forecast Accuracy; ensure customers don’t have to wait for an answer, getting the numbers right is essential
-Minimise inbound call costs by reducing per-call handling time
-Reduce customer wait times
-The system effectively matches customer with an RM.
-Reduce Customer Effort
+* Speed Up Responses and Reduce Abandons; fast response times and low abandon rates.
+* Boost Customer Satisfaction
+* Increase the Effectiveness of the Service Recovery Programmes
+* Improve Forecast Accuracy; ensure customers don’t have to wait for an answer, getting the numbers right is essential
+* Minimise inbound call costs by reducing per-call handling time
+* Reduce customer wait times
+* The system effectively matches customer with an RM.
+* Reduce Customer Effort
 
 An investigation into the source of customer complaints revealed the following issues:
 * RMs were sometimes unable to cope with the large number of travel packages available for purchase
