@@ -22,6 +22,13 @@ The business aims to resolve the above problems using an IT solution, with the g
 ![Empathy Map - Branch Manager](/assets/Empathy%20Map%20-%20Branch%20Manager.png)
 ![Customer-Empathy map](/diagarms/Customer-Empathy map.png) 
 
+## Point of View (POV) Statements 
+### Customer 
+The customer needs to talk to the appropriate person over the phone to fulfil their needs  as their needs will be filled by a RM whose speciality department matches their needs.
+
+### Relationship Manager
+The relationship manager needs to receive calls from customers that match their specialities, because they will be able to help customers better as they are familiar with the specific area.
+
 # Design Approach
 Describe the AGILE approach (Scrum) used in this project and explain why it was chosen. Outline the Scrum activities used during this project.
 
