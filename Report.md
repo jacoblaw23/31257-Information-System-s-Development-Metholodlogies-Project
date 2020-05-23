@@ -85,7 +85,7 @@ The team have conducted interviews with the stakeholders about the current syste
 5) As a Relationship Manager (RM) i want to provide effective service and assistance to customers, so that i can improve performance sales for holiday packages.
 6) As a customer i want to be matched with an RM based on performance and product knowledge, so that i can receive adequate information and service.  
 7) As an RM i want to educate myself about the new system, so that i can sell packages and serve customers more effectively and efficiently.
-8) As a customer, i want to score the RM from 1-10 after my call, so that i can provide feedback about the system.
+8) As a customer, i want to score the RM's service out of 1-10 after my call, so that i can provide feedback about the system.
  
 *Diagrams
 
