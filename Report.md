@@ -59,12 +59,15 @@ Describe the AGILE approach (Scrum) used in this project and explain why it was 
 * CMC employees transfer customers to RMs
 * CMC employees transfer customers to some RMs more than others
 * RMs sometimes conduct random sales pitches to many customers in order to meet sales numbers
+* Customers are waiting for more than a certain period to get answered by an RM just hang up
 
 ## System
 * Customers create unique profiles according to CMC employee instructions before being transferred to RMs
 * CMC employees receive calls when automatic routing is unavailable
 * CMC employees receive calls when automatic routing fails to find a suitable RM
 * The scripts used for sales pitches are created by the business and stored in a fixed location for the system to access
+* Calls that are not answered by RM for a specific package are routed to an automated voicemail system
+* Calls received are sorted based on whether customer is an ongoing client or a new Potential client
 
 
 # Proposal
