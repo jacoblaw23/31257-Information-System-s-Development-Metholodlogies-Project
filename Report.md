@@ -29,6 +29,9 @@ The customer needs to talk to the appropriate person over the phone to fulfil th
 ### Relationship Manager
 The relationship manager needs to receive calls from customers that match their specialities, because they will be able to help customers better as they are familiar with the specific area.
 
+### Branch Manager
+The branch manager needs to increase customer retention by improving customer experience through the process of assigning calls to RMs which are more suited to their skillset. 
+
 # Design Approach
 Describe the AGILE approach (Scrum) used in this project and explain why it was chosen. Outline the Scrum activities used during this project.
 
