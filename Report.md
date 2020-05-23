@@ -78,13 +78,16 @@ The team have conducted interviews with the stakeholders about the current syste
 * Workproducts
 # Models
 # User Stories
-1) As a Relationship Manager (RM) i want to provide effective service and assistance to customers, so that i can improve performance sales for holiday packages.
-2) As a customer i want to be matched with an RM based on performance and product knowledge, so that i can receive adequate information and service.
-3) As an RM i want to educate myself about the new system, so that i can sell packages and serve customers more effectively and efficiently. 
-4) As a customer i have to fill in some personal details on profiler tool, so that i can create a customer profile.
-5) As an RM, i have to fill out a 10 minute questionaire, so that i can build a profile and a skill matrix.
-* Diagrams
-
+1) As a branch manager, i want to develop an information system so that i can improve the operation of the in-house call management centre.
+2) As a customer i need to fill in some personal details on profiler tool, so that i can create a customer profile.
+3) As an RM, i need to fill out a 10 minute profile and skill questionaire, so that my profile can be initialised at hiring.
+4) As a customer, i have to create a customer profile so that i can be matched with an RM according to social and cultural segments. 
+5) As a Relationship Manager (RM) i want to provide effective service and assistance to customers, so that i can improve performance sales for holiday packages.
+6) As a customer i want to be matched with an RM based on performance and product knowledge, so that i can receive adequate information and service.  
+7) As an RM i want to educate myself about the new system, so that i can sell packages and serve customers more effectively and efficiently.
+8) As a customer, i want to score the RM from 1-10 after my call, so that i can provide feedback about the system.
+ 
+*Diagrams
 
 # Analysis
 Advantages and disadvantages of the new IT system.
