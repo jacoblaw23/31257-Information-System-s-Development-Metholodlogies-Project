@@ -75,7 +75,11 @@ Describe the AGILE approach (Scrum) used in this project and explain why it was 
 The team have conducted interviews with the stakeholders about the current system from their experiences from using the current system. When the team spoke to the customer, they specified that they wanted to speak to the right person that will be able to fulfil their needs, as that appropriate person will be able to match their needs based on the information they provide to that person their speaking with over the phone. The feedback we received from the customer is that the current system has given them a poor experience when purchasing travel packages, also how they are being sold the packages that are available from the travel company is considered to a pain point in their perspective,another thing they mentioned is when they were waiting for more than a certain period of time to speak to the right relationship manager they would just hang up.
 
 * Workproducts
-* Models
+# Models
+# User Stories
+1) As a Relationship Manager (RM) i want to provide effective service and assistance to customers, so that i can improve performance sales for holiday packages.
+2) As a customer, i want to be matched with an RM based on performance and product knowledge, so that i can receive adequate information and service.
+3) As an RM, i want to educate myself about the new system, so that i can sell packages and serve customers more effectively and efficiently. 
 * Diagrams
 
 
