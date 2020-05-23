@@ -68,6 +68,7 @@ Describe the AGILE approach (Scrum) used in this project and explain why it was 
 * The scripts used for sales pitches are created by the business and stored in a fixed location for the system to access
 * Calls that are not answered by RM for a specific package are routed to an automated voicemail system
 * Calls received are sorted based on whether customer is an ongoing client or a new Potential client
+* A supporting tool to create customer profiles exists, called Profiler Tool.
 
 
 # Proposal
@@ -78,8 +79,10 @@ The team have conducted interviews with the stakeholders about the current syste
 # Models
 # User Stories
 1) As a Relationship Manager (RM) i want to provide effective service and assistance to customers, so that i can improve performance sales for holiday packages.
-2) As a customer, i want to be matched with an RM based on performance and product knowledge, so that i can receive adequate information and service.
-3) As an RM, i want to educate myself about the new system, so that i can sell packages and serve customers more effectively and efficiently. 
+2) As a customer i want to be matched with an RM based on performance and product knowledge, so that i can receive adequate information and service.
+3) As an RM i want to educate myself about the new system, so that i can sell packages and serve customers more effectively and efficiently. 
+4) As a customer i have to fill in some personal details on profiler tool, so that i can create a customer profile.
+5) As an RM, i have to fill out a 10 minute questionaire, so that i can build a profile and a skill matrix.
 * Diagrams
 
 
