@@ -44,10 +44,14 @@ The business aims to resolve these issues using an IT solution, with the goal be
 
 ## Point of View (POV) Statements 
 ### Customer 
-The customer needs to talk to the appropriate person over the phone to fulfil their needs  as their needs will be filled by a RM whose speciality department matches their needs.
+The customer needs to talk to the appropriate person over the phone to fulfil their needs as their needs will be filled by a RM whose speciality department matches their needs.
 
 ### Relationship Manager
 The relationship manager needs to receive calls from customers that match their specialities, because they will be able to help customers better as they are familiar with the specific area.
+
+### Branch Manager
+The branch manager needs to increase customer retention by improving customer experience through the process of assigning calls to RMs which are more suited to their skillset. 
+
 # Design Approach
 Describe the AGILE approach (Scrum) used in this project and explain why it was chosen. Outline the Scrum activities used during this project.
 
