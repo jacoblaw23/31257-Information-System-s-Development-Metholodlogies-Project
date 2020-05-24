@@ -119,7 +119,7 @@ The team have conducted interviews with the stakeholders about the current syste
 
 
 # 5. Modelling <a name="Modelling"></a>
-## 5.1. User Stories <a name="Modelling--Stories></a>
+## 5.1. User Stories <a name="Modelling--Stories"></a>
 1) As a branch manager, i want to develop an information system so that i can improve the operation of the in-house call management centre.
 2) As a customer i need to fill in some personal details on profiler tool, so that i can create a customer profile.
 3) As an RM, i need to fill out a 10 minute profile and skill questionaire, so that my profile can be initialised at hiring.
