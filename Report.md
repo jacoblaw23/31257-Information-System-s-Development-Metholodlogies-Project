@@ -54,23 +54,15 @@ The business seeks to enhance the operation of their in-house call management ce
 
 
 # 2. Business Objectives <a name="Business"></a>
-* Speed Up Responses and Reduce Abandons; fast response times and low abandon rates.
-* Boost Customer Satisfaction
-* Increase the Effectiveness of the Service Recovery Programmes
-* Improve Forecast Accuracy; ensure customers don’t have to wait for an answer, getting the numbers right is essential
-* Minimise inbound call costs by reducing per-call handling time
+* Increase response times and reduce abandon rates
+* Increase customer satisfaction
+* Increase the effectiveness of service recovery programs
+* Increase forecast accuracy; customers should not wait to be connected to the correct RM
+* Increase the probability of successful sales by intelligently matching customers to travel packages
+* Match customers to knowledgable RMs
+* Minimise inbound call costs by reducing per-call handling times
 * Reduce customer wait times
-* The system effectively matches customer with an RM.
-* Reduce Customer Effort
-
-An investigation into the source of customer complaints revealed the following issues:
-* RMs were sometimes unable to cope with the large number of travel packages available for purchase
-* RMs were sometimes unable to cope with the number of customers being transferred to them; customer put on hold
-* RMs were sometimes unable to sell products to customers due to cultural differences
-* RMs were sometimes unable to communicate with customers due to language barriers
-* RMs were sometimes conducting random sales pitches to many customers in order to meet sales numbers
-
-The business aims to resolve these issues using an IT solution, with the goal being an improved customer experience.
+* Reduce customer effort
 
 
 # 3. Stakeholders <a name="Stakeholders"></a>
@@ -91,27 +83,30 @@ Stakeholders for the proposed solution are described in the table below.
 
 ## 3.2. POV Statements <a name="POV"></a>
 ### 3.2.1. Customer <a name="POV--Customer"></a>
-The customer needs to talk to the appropriate person over the phone to fulfil their needs as their needs will be filled by a RM whose speciality department matches their needs.
+The customer interested in a travel package needs to connect with a knowledgable person (RM) because otherwise the customer will obtain incomplete or incorrect information, and have an unsatisfying experience.
 
 ### 3.2.2. Relationship Manager <a name="POV--RM"></a>
-The relationship manager needs to receive calls from customers that match their specialities, because they will be able to help customers better as they are familiar with the specific area.
+The relationship manager (RM) needs to receive calls from customers interested in a travel package that the RM specialises in because then they can provide complete and correct information.
+
+The relationship manager needs to spend less time transferring calls to more suitable colleagues because that time is wasted.
 
 ### 3.2.3. Branch Manager <a name="POV--BM"></a>
-The branch manager needs to increase customer retention by improving customer experience through the process of assigning calls to RMs which are more suited to their skillset. 
+The branch manager needs to improve the customer experience because customers are becoming increasingly dissatisfied with the available services.
 
 
 ## 3.3. HMW Statements <a name="HMW"></a>
 ### 3.3.1. Customer <a name="HMW--Customer"></a>
-* HMW connect to the correct department when calling?
-* HMW know the RM we are matched to matches our needs?
+* HMW connect customers to a knowledgable RM with an appropriate level of cultural understanding?
+* HMW connect customers to a complete and correct source of travel package information?
 
 ### 3.3.2. Relationship Manager <a name="HMW--RM"></a>
-*	HMW receive the calls specifically that match our speciality?
-*	HMW make this easier for us ?
+* HMW ensure that RMs receive calls from customers related to their specialised understanding?
+* HMW reduce the amount of redundant or unnecessary work performed by RMs?
 
 ### 3.3.3. Branch Manager <a name="HMW--BM"></a>
-*	HMW ensure the customers are satisfied with the service received?
-*	HMW ensure customers receive the right packages?
+* HMW improve the customer experience?
+* HMW improve customer satisfaction?
+* HMW ensure customers are sold the appropriate travel package?
 
 
 # 4. Reflection Statement <a name="Reflection"></a>
@@ -120,14 +115,68 @@ The team have conducted interviews with the stakeholders about the current syste
 
 # 5. Modelling <a name="Modelling"></a>
 ## 5.1. User Stories <a name="Modelling--Stories"></a>
-1) As a branch manager, i want to develop an information system so that i can improve the operation of the in-house call management centre.
-2) As a customer i need to fill in some personal details on profiler tool, so that i can create a customer profile.
-3) As an RM, i need to fill out a 10 minute profile and skill questionaire, so that my profile can be initialised at hiring.
-4) As a customer, i have to create a customer profile so that i can be matched with an RM according to social and cultural segments. 
-5) As a Relationship Manager (RM) i want to provide effective service and assistance to customers, so that i can improve performance sales for holiday packages.
-6) As a customer i want to be matched with an RM based on performance and product knowledge, so that i can receive adequate information and service.  
-7) As an RM i want to educate myself about the new system, so that i can sell packages and serve customers more effectively and efficiently.
-8) As a customer, i want to score the RM's service out of 1-10 after my call, so that i can provide feedback about the system.
+| US001 | Priority | Estimate |
+|-------|----------|----------|
+| As a Customer, I want to be recommended interesting travel packages so that I learn about new interesting holiday destinations. | M | Medium |
+| <b>Acceptance Criteria: </b><br>Given previous purchases and search history, when contacted by a RM, then travel packages that would reasonably be expected to interest the customer are recommended.
+
+.
+
+| US002 | Priority | Estimate |
+|-------|----------|----------|
+| As a Customer, I want to be connected with a RM capable of effectively assisting and communicating with me so that I feel like I am being understood. | H | Low |
+| <b>Acceptance Criteria: </b><br>Given ...
+
+.
+
+| US003 | Priority | Estimate |
+|-------|----------|----------|
+| As a Customer, I want to provide feedback about my experience with an RM so that I feel like I am being understood. | L | Low |
+| <b>Acceptance Criteria: </b><br>Given ...
+
+.
+
+| US004 | Priority | Estimate |
+|-------|----------|----------|
+| As a Relationship Manager, I want to create a personal profile containing a description of my current skillset so that I can be connected to customers I can effectively assist. | H | Low |
+| <b>Acceptance Criteria: </b><br>Given ...
+
+.
+
+| US005 | Priority | Estimate |
+|-------|----------|----------|
+| As a Relationship Manager, I want to provide effective service and assistance to customers so that I can improve my sales numbers and sell more holiday packages. | M | Low |
+| <b>Acceptance Criteria: </b><br>Given ...
+
+.
+
+| US006 | Priority | Estimate |
+|-------|----------|----------|
+| As a Relationship Manager, I want to quickly learn about the new system so that I can quickly return to serving customers and selling packages. | L | Low |
+| <b>Acceptance Criteria: </b><br>Given ...
+
+.
+
+| US007 | Priority | Estimate |
+|-------|----------|----------|
+| As a Branch Manager, I want to automatically route customers to appropriate RMs so that more sales are successful. | H | High |
+| <b>Acceptance Criteria: </b><br>Given ...
+
+.
+
+| US008 | Priority | Estimate |
+|-------|----------|----------|
+| As a Branch Manager, I want to automatically route customers to appropriate RMs so that more sales are successful. | H | High |
+| <b>Acceptance Criteria: </b><br>Given ...
+
+.
+
+| US009 | Priority | Estimate |
+|-------|----------|----------|
+| As a Branch Manager, I want to connect customers with the most effective RM (based on their recent performance) so that the odds of closing each sale is higher. | M | Low |
+| <b>Acceptance Criteria: </b><br>Given ...
+
+.
 
 ## 5.2. Use Case Diagrams <a name="Modelling--UseCase"></a>
 ## 5.3. Activity Diagrams <a name="Modelling--Activity"></a>
