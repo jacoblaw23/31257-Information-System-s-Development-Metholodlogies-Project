@@ -107,7 +107,8 @@ The team have conducted interviews with the stakeholders about the current syste
 *Diagrams
 
 # Analysis
-Advantages and disadvantages of the new IT system.
+Outline potential benefits to the call center (in terms of reducing cost and being able to carry out more effective calls). Identify and discuss the possible adverse effects for this Business if its information
+system project fails
 
 
 # References
