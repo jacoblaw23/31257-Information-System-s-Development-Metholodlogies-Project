@@ -1,0 +1,94 @@
+1. What features do you expect from this system?
+------------------------------------------------
+
+Customer:
+
+    I expect the features to improve call routing and dynamic flow control for both inbound and
+    outbound calls. I expect the calls to match the customer to RM's based on product knowledge,
+    according to social and cultural factors like age, sex, culture, experience, etc. I would
+    expect the system to run efficiently and effectively, so it saves time and ensures a suitable
+    and fast service. I also expect to matched with a RM that can relate to me, making the
+    environment more comfortable.
+
+RM (Sales Representative):
+
+    To be honest, I'm not sure what to expect. From my understanding the new system is supposed to
+    help because it connects me with more suitable clients, either because they are interested in
+    the travel packages I specialise in or because I speak their preferred language. The latter
+    would be especially useful since it would mean I would need to transfer less calls.
+
+    I would also expect the system to work, that's for sure. I wouldn't want to use a system that
+    doesn't work all the time. That would make things pointless and confusing.
+
+
+2. Do you have any concerns regarding any features in other similar systems?
+   Why/why not?
+------------------------------------------------
+
+Customer:
+
+    The biggest concern I would have is probably privacy, if it is guaranteed that my information 
+    is secure within the system, then I am fine with sharing it. In other similar systems there
+    have been glitches and sometimes customers are matched with the wrong representatives, causing
+    confusion and some awkwardness. Does the system have protocols or facilities in place to 
+    address last minute problems/glitches?
+
+RM (Sales Representative):
+
+    Some coworkers are nervous about our boss receiving more information about how we spend our
+    time here, but we get our work done. Can you guarantee the system won't expose any sensitive
+    information?
+
+    I have seen other systems where it learns and changes recommendations as time goes by. Does the
+    system learn about me? What does it learn?
+
+
+3. Do you think we could incorporate those features and improve it in our system?
+------------------------------------------------
+
+Customer:
+
+    Yes for sure, I think incorporating the 'profiler tool' feature for customers can improve the
+    system as it'll be used as a skill matcher with RM's, which will enable me, as a customer to
+    get service from someone relatable and who can empathise with me, making me feel comfortable.
+    Also, it reduces inbound call costs and saves time for manually having to transfer calls -
+    meaning customers won't have to be kept on hold (which almost every customer hates).
+
+RM (Sales Representative):
+
+    You should definately incorporate those features. I wouldn't have raised them otherwise. I'm
+    not sure about improving them though. It seems to be what everyone else is doing, so it sounds
+    like the right way to go. Maybe we could get some kind of feedback on what the system thinks
+    about our performance?
+
+
+4. What else do you think may incorporate to enhance the system?
+------------------------------------------------
+
+Customer:
+
+    The ability to give ratings/feedback after a call can enhance the system, as we can bring up
+    any improvements that can be made about the customer service, whether the RM we were matched
+    with provided effective service, etc.
+
+RM (Sales Representative):
+
+    Something that remembers regular clients and makes some special notification about when they're
+    going to call again would be nice. Or something that tracks how long it's been since our last
+    call. It would be great if we could improve the experience for our regular customers; they
+    would keep coming back.
+
+
+5. How do you feel about learning a new system?
+------------------------------------------------
+
+Customer:
+
+    I am open to learning a new system, especially if it is likely to make the call flow more
+    efficient and easier. However, I would be hesitant to share too much information, but if the
+    system ensures privacy then it is something I am willing to do.
+
+RM (Sales Representative):
+
+    I don't want to have to change the way I do things completely. I want to be comfortable doing
+    what I always do. I am willing to learn though.
