@@ -65,6 +65,29 @@ The branch manager needs to increase customer retention by improving customer ex
 *	HMW ensure the customers are satisfied with the service received?
 *	HMW ensure customers receive the right packages?
 
+## Point of View (POV) Statements 
+### Customer 
+The customer needs to talk to the appropriate person over the phone to fulfil their needs  as their needs will be filled by a RM whose speciality department matches their needs.
+
+### Relationship Manager
+The relationship manager needs to receive calls from customers that match their specialities, because they will be able to help customers better as they are familiar with the specific area.
+
+### Branch Manager
+The branch manager needs to increase customer retention by improving customer experience through the process of assigning calls to RMs which are more suited to their skillset. 
+
+## HMW questions 
+### Customer 
+* HMW connect to the correct department when calling?
+* HMW know the RM we are matched to matches our needs?
+
+### Relationship manager 
+*	HMW receive the calls specifically that match our speciality?
+*	HMW make this easier for us ?
+
+### Branch manager 
+*	HMW ensure the customers are satisfied with the service received?
+*	HMW ensure customers receive the right packages?
+
 # Design Approach
 Describe the AGILE approach (Scrum) used in this project and explain why it was chosen. Outline the Scrum activities used during this project.
 
