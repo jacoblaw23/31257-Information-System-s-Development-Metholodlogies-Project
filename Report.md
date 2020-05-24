@@ -30,7 +30,7 @@ The business aims to resolve these issues using an IT solution, with the goal be
 
 # Stakeholders
 ## Stakeholder Table
-![Stakeholders](diagrams/Stakeholders Table.jpg)
+![Stakeholders Table](diagrams/Stakeholders Table.jpg)
 
 ## Empathy Maps
 ### Branch Manager
