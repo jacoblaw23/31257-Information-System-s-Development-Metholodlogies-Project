@@ -106,9 +106,11 @@ The team have conducted interviews with the stakeholders about the current syste
  
 *Diagrams
 
-# Analysis
-Outline potential benefits to the call center (in terms of reducing cost and being able to carry out more effective calls). Identify and discuss the possible adverse effects for this Business if its information
-system project fails
+# Analysis (draft)
+In the process of developing a new information system, a number of competitive advantages are gained for the call centre. Some potential benefits include the reudction in inbound call costs by reducing per-call handling time, the ability to carry out more effective calls, smooth operations, reduction in customer wait times,improved call routing and dynamic call flow control for both inbound and outbound calls, improved customer service, higher sales of travel packages, increased customer attraction & loyalty, reduction in operation/administration expenses, higher profits.
+
+"Identify and discuss the possible adverse effects for this Business if its information system project fails"
+- loss of money, can lost customer base
 
 
 # References
