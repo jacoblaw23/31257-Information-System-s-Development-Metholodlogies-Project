@@ -6,7 +6,7 @@ Summary of report contents. Should be written after the rest of the report.
 
 
 # Problem Definition
-The business has experienced an increasing number of customer complaints related to their experiences with the relationship manager (RM). Customers often described the RM as unknowledgeable about their desired travel package, and sometimes expressed disinterest in the product they were being sold.
+The business seeks to enhance the operation of their in-house call management centre (CMC) in order to improve the customer experience. Customers often complain about their experience with the relationship manager (RM), describing them as unknowledgeable about their desired travel package and (when being sold products) expressing disinterest in the product being sold, resulting in lost sales. To improve the customer experience and increase profits, the business should implement an automatic call routing system matching customers to an appropriate RM.
 
 # Business Objectives
 * Speed Up Responses and Reduce Abandons; fast response times and low abandon rates.
