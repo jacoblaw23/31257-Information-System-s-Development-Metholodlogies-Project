@@ -187,12 +187,13 @@ The team have conducted interviews with the stakeholders about the current syste
 # 6. Analysis <a name="Analysis"></a>
 The process of developing a new information system to improve the operation of the in house call management cenre (CMC) comes with a 
 number of advantages. The incorporation of an upgraded information system allows the CMC to gain a competitive advantage over other
-business's. A major advantage would be enhanced and more smooth operations. Some more potential benefits for the call centre include 
-the reduction in costs for inbound calls by reducing per-call handling time, decreased manual labour due to more technology, and a deduction
-in operation/administration expenses. The new system will allow the ability to carry out more effective and efficient calls, as well as
+business's, by differentiating it's services and enhancing the system. A major advantage the CMC gained is the smooth flow of operations. 
+Some more potential benefits for the call centre include the reduction in costs for inbound calls by reducing per-call handling time, 
+decreased manual labour due to more technology, therefore leading to a deduction in operation/administration expenses, such as salaries
+& wages costs. The new system will allow the call centre's ability to carry out more effective and efficient calls, as well as
 improved call routing and dynamic call flow control for both inbound and outbound calls. The ehnanced efficency of operations 
-result reduction in customer wait times, improved customer service and improved RM performance, increased customer attraction & loyalty,
-all which would lead to higher sales of travel packages and ultimately result in higher profits.
+result in reduction of customer wait times, improved customer service/satisfaction and improved RM performance & skills, all which lead to 
+a boost in customer attraction & loyalty, higher sales of travel packages, ultimately resulting in higher profits.
 
 However, whilst there are a number of benefits derived from an upgraded information system, there are also possible 
 adverse effects for the business if its information system project fails.
