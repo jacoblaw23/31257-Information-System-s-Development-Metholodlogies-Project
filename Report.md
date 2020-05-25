@@ -68,7 +68,7 @@ The business seeks to enhance the operation of their in-house call management ce
 # 3. Stakeholders <a name="Stakeholders"></a>
 Stakeholders for the proposed solution are described in the table below.
 
-![Stakeholders](diagrams/stakeholders.png)
+![Stakeholders](diagrams/Stakeholders%20Table.jpg) 
 
 ## 3.1. Empathy Maps <a name="Empathy"></a>
 ### 3.1.1. Customer <a name="Empathy--Customer"></a>
