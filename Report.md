@@ -116,6 +116,10 @@ The team have conducted interviews with the stakeholders about the current syste
  
 *Diagrams
 
+## Use Case Diagram for US001
+![US001](diagrams/US001UseCase.png)
+
+
 # Analysis (draft)
 The process of developing a new information system to improve the operation of the in house call management cenre (CMC) comes with a 
 number of advantages. The incorporation of an upgraded information system allows the CMC to gain a competitive advantage over other
