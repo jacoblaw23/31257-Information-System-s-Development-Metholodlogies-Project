@@ -116,6 +116,9 @@ The team have conducted interviews with the stakeholders about the current syste
  
 *Diagrams
 
+## Use Case Diagram for US001
+![US001](diagrams/US001 Use Case.png)
+
 # Analysis (draft)
 In the process of developing a new information system to improve the operation of the in house call management cenre (CMC), a number of competitive advantages are gained. The major advantage for the call centre would be improved and smooth operations. Some potential benefits for the call centre include the reduction in inbound call costs by reducing per-call handling time, the ability to carry out more effective and efficient calls, reduction in customer wait times, improved call routing and dynamic call flow control for both inbound and outbound calls, improved customer service, improved RM performance, higher sales of travel packages, increased customer attraction & loyalty, decreased manual labour, reduction in operation/administration expenses, higher profits.
 However, whilst there are a number of benefits derived from an upgraded information system, there are also possible adverse effects for the business if its information system project fails.
