@@ -194,6 +194,9 @@ The team have conducted interviews with the stakeholders about the current syste
 **Profiler Tool:**<br>
 ![Profiler Tool](diagrams/ucase/Tool.png)
 
+**US001 Use Case:**
+![USOO1](diagrams/ucase/US001UseCase.png)
+
 ## 5.3. Activity Diagrams <a name="Modelling--Activity"></a>
 ## 5.4. Class Diagrams <a name="Modelling--Class"></a>
 ## 5.5. Collaboration or Sequence Diagrams <a name=""></a>
