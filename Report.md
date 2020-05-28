@@ -34,7 +34,7 @@
 The business seeks to enhance the operation of their in-house call management centre (CMC) in order to improve the customer experience. Customers often complain about their experience with the relationship manager (RM), describing them as unknowledgeable about their desired travel package and (when being sold products) expressing disinterest in the product being sold, resulting in lost sales. To improve the customer experience and increase profits, the business should implement an automatic call routing system matching customers to an appropriate RM.
 
 ## 1.1. Assumptions <a name="Assumptions"></a>
-**Current Process**
+**Current Process:**
 * Customers are complaining about poor experiences when purchasing travel packages
 * Customers are complaining about poor experiences when being sold travel packages
 * CMC employees receive calls
@@ -43,7 +43,7 @@ The business seeks to enhance the operation of their in-house call management ce
 * RMs sometimes conduct random sales pitches to many customers in order to meet sales numbers
 * Customers are waiting for more than a certain period to get answered by an RM just hang up
 
-**Proposed System**
+**Proposed System:**
 * Customers create unique profiles according to CMC employee instructions before being transferred to RMs
 * CMC employees receive calls when automatic routing is unavailable
 * CMC employees receive calls when automatic routing fails to find a suitable RM
@@ -68,17 +68,17 @@ The business seeks to enhance the operation of their in-house call management ce
 # 3. Stakeholders <a name="Stakeholders"></a>
 Stakeholders for the proposed solution are described in the table below.
 
-![Stakeholders](diagrams/Stakeholders%20Table.jpg) 
+![Stakeholders](diagrams/Stakeholders.jpg)
 
 ## 3.1. Empathy Maps <a name="Empathy"></a>
 ### 3.1.1. Customer <a name="Empathy--Customer"></a>
-![Empathy Map - Customer](/diagrams/empathy_maps/Customer.png)
+![Empathy Map - Customer](/diagrams/emaps/Customer.png)
 
 ### 3.1.2. Relationship Manager <a name="Empathy--RM"></a>
-![Empathy Map - Relationship Manager](/diagrams/empathy_maps/RM.jpeg)
+![Empathy Map - Relationship Manager](/diagrams/emaps/RM.jpeg)
 
 ### 3.1.3. Branch Manager <a name="Empathy--BM"></a>
-![Empathy Map - Branch Manager](/diagrams/empathy_maps/BM.png)
+![Empathy Map - Branch Manager](/diagrams/emaps/BM.png)
 
 
 ## 3.2. POV Statements <a name="POV"></a>
@@ -116,67 +116,73 @@ The team have conducted interviews with the stakeholders about the current syste
 # 5. Modelling <a name="Modelling"></a>
 ## 5.1. User Stories <a name="Modelling--Stories"></a>
 | US001 | Priority | Estimate |
-|-------|----------|----------|
-| As a Customer, I want to be recommended interesting travel packages so that I learn about new interesting holiday destinations. | M | Medium |
-| <b>Acceptance Criteria: </b><br>Given previous purchases and search history, when contacted by a RM, then travel packages that would reasonably be expected to interest the customer are recommended.
+|-------|:--------:|:--------:|
+| As a customer, I want to communicate with an employee that understands the product I am searching for so that I can make better purchases. | H | High |
+| <b>Acceptance Criteria:</b><br> <ul><li>Customer is connected to a RM that understands the desired product</li><li>Customer is connected to a RM that understands contextual knowledge about the product such as cultural traditions</li></ul> |
 
-.
+<br>
 
 | US002 | Priority | Estimate |
-|-------|----------|----------|
-| As a Customer, I want to be connected with a RM capable of effectively assisting and communicating with me so that I feel like I am being understood. | H | Low |
-| <b>Acceptance Criteria: </b><br>Given ...
+|-------|:--------:|:--------:|
+| As a customer, I want to comment on my experience with an employee so that I know my opinion matters to the business. | M | Low |
+| <b>Acceptance Criteria:</b><br> <ul><li>Customer has the option to rate their experience after each phone call</li><li>Customer has the option to comment on their experience after each phone call</li></ul> |
 
-.
+<br>
 
 | US003 | Priority | Estimate |
-|-------|----------|----------|
-| As a Customer, I want to provide feedback about my experience with an RM so that I feel like I am being understood. | L | Low |
-| <b>Acceptance Criteria: </b><br>Given ...
+|-------|:--------:|:--------:|
+| As a customer, I want to create a personal profile so that I can receive personalised service in the future. | L | Low |
+| <b>Acceptance Criteria:</b><br> <ul><li>Customer can create a personal profile by communicating with CMC employee</li><li>Customer can update their personal profile at any time</li></ul> |
 
-.
+<br>
 
 | US004 | Priority | Estimate |
-|-------|----------|----------|
-| As a Relationship Manager, I want to create a personal profile containing a description of my current skillset so that I can be connected to customers I can effectively assist. | H | Low |
-| <b>Acceptance Criteria: </b><br>Given ...
+|-------|:--------:|:--------:|
+| As a relationship manager, I want to connect with customers that I can provide effective service to so that I can create a strong relationship with the customer. | H | Medium |
+| <b>Acceptance Criteria:</b><br> <ul><li>RM is connected with customers they are capable of providing effective service to</li></ul> |
 
-.
+<br>
 
 | US005 | Priority | Estimate |
-|-------|----------|----------|
-| As a Relationship Manager, I want to provide effective service and assistance to customers so that I can improve my sales numbers and sell more holiday packages. | M | Low |
-| <b>Acceptance Criteria: </b><br>Given ...
+|-------|:--------:|:--------:|
+| As a relationship manager, I want to connect with customers that I can provide effective service to so that I do not need to transfer calls as often. | H | Medium |
+| <b>Acceptance Criteria:</b><br> <ul><li>RM does not transfer calls as often</li></ul> |
 
-.
+<br>
 
 | US006 | Priority | Estimate |
-|-------|----------|----------|
-| As a Relationship Manager, I want to quickly learn about the new system so that I can quickly return to serving customers and selling packages. | L | Low |
-| <b>Acceptance Criteria: </b><br>Given ...
+|-------|:--------:|:--------:|
+| As a relationship manager, I want to quickly find product details so that I can respond to questions in a timely manner. | L | Medium |
+| <b>Acceptance Criteria:</b><br> <ul><li>RM can search for specific products and product information</li><li>Product information appears within 5 seconds</li><li>Product information is easy to read</li></ul> |
 
-.
+<br>
 
 | US007 | Priority | Estimate |
-|-------|----------|----------|
-| As a Branch Manager, I want to automatically route customers to appropriate RMs so that more sales are successful. | H | High |
-| <b>Acceptance Criteria: </b><br>Given ...
+|-------|:--------:|:--------:|
+| As a relationship manager, I want to sell customers products they are interested in so that I make more sales. | H | High |
+| <b>Acceptance Criteria:</b><br> <ul><li>System creates product recommendations using purchase history and other customer information that interest the customer</li></ul> |
 
-.
+<br>
 
 | US008 | Priority | Estimate |
-|-------|----------|----------|
-| As a Branch Manager, I want to automatically route customers to appropriate RMs so that more sales are successful. | H | High |
-| <b>Acceptance Criteria: </b><br>Given ...
+|-------|:--------:|:--------:|
+| As a relationship manager, I want to create a personal profile with a description of my skills so that I can be matched with customers I can provide effective service to. | H | Low |
+| <b>Acceptance Criteria:</b><br> <ul><li>RM can create a personal profile as part of the onboarding process</li><li>RM can update their personal profile at any time</li><li>RM can update their skills at any time</li></ul> |
 
-.
+<br>
 
 | US009 | Priority | Estimate |
-|-------|----------|----------|
-| As a Branch Manager, I want to connect customers with the most effective RM (based on their recent performance) so that the odds of closing each sale is higher. | M | Low |
-| <b>Acceptance Criteria: </b><br>Given ...
+|-------|:--------:|:--------:|
+| As a branch manager, I want to put customers in a waiting queue when no RM is available so that customers can connect to available RMs as soon as possible. | M | Medium |
+| <b>Acceptance Criteria:</b><br> <ul><li>Customers are put in a waiting queue when no RM is available</li><li>Customers are connected with available RMs as soon as the RM becomes available</li><li>Customers are served in order of purchase potential (ties are settled by order of appearance)</li></ul> |
 
-.
+<br>
+
+| US010 | Priority | Estimate |
+|-------|:--------:|:--------:|
+| As a branch manager, I want RMs to use a script when selling products so that the customer experience is more consistent and effective. | L | Low |
+| <b>Acceptance Criteria:</b><br> <ul><li>RM can view product-specific sale scripts when making sales</li></ul> |
+
 
 ## 5.2. Use Case Diagrams <a name="Modelling--UseCase"></a>
 ## 5.3. Activity Diagrams <a name="Modelling--Activity"></a>
