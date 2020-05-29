@@ -185,10 +185,10 @@ The team have conducted interviews with the stakeholders about the current syste
 
 
 ## 5.2. Use Case Diagrams <a name="Modelling--UseCase"></a>
-**Customer:**
+**Customer:**<br>
 ![Customer Calls the Business](diagrams/ucase/Customer.png?)
 
-**Relationship Manager:**
+**Relationship Manager:**<br>
 ![RM Making Sales](diagrams/ucase/Business.png)
 
 **Profiler Tool:**<br>
