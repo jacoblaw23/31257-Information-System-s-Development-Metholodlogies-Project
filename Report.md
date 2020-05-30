@@ -42,6 +42,7 @@ The business seeks to enhance the operation of their in-house call management ce
 * CMC employees transfer customers to some RMs more than others
 * RMs sometimes conduct random sales pitches to many customers in order to meet sales numbers
 * Customers are waiting for more than a certain period to get answered by an RM just hang up
+* Customers are told to call the next day when calling after hours
 
 **Proposed System:**
 * Customers create unique profiles according to CMC employee instructions before being transferred to RMs
