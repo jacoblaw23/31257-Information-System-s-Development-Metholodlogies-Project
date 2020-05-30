@@ -199,7 +199,7 @@ The team have conducted interviews with the stakeholders about the current syste
 ![ActivityDiagram](diagrams/ActivityDiagram.jpg)
 
 ## 5.4. Class Diagrams <a name="Modelling--Class"></a>
- ![Class Diagram](diagrams/ClassDiagarm.png)
+ ![Class Diagram](diagrams/Class Diagarm.png)
 ## 5.5. Collaboration or Sequence Diagrams <a name=""></a>
 
 
