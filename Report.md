@@ -22,9 +22,10 @@
 5. [Modelling](#Modelling)
     * 5.1. [User Stories](#Modelling--Stories)
     * 5.2. [Use Case Diagrams](#Modelling--UseCase)
-    * 5.3. [Activity Diagrams](#Modelling--Activity)
-    * 5.4. [Class Diagrams](#Modelling--Class)
-    * 5.5. [Sequence Diagrams](#Modelling--Sequence)
+    * 5.3. [Use Case Narratives](#Modelling--UseCaseNarratives)
+    * 5.4. [Activity Diagrams](#Modelling--Activity)
+    * 5.5. [Class Diagrams](#Modelling--Class)
+    * 5.6. [Sequence Diagrams](#Modelling--Sequence)
 6. [Analysis](#Analysis)
 7. [References](#References)
 8. [Appendix](#Appendix)
@@ -194,12 +195,13 @@ The team have conducted interviews with the stakeholders about the current syste
 **Profiler Tool:**<br>
 ![Profiler Tool](diagrams/ucase/Tool.png)
 
-## 5.3. Activity Diagrams <a name="Modelling--Activity"></a>
+## 5.3. Use Case Narratives <a name="Modelling--UseCaseNarratives"></a>
+## 5.4. Activity Diagrams <a name="Modelling--Activity"></a>
 **US003:**<br>
 ![US003 Activity Diagram](diagrams/activity/US003.png)
 
-## 5.4. Class Diagrams <a name="Modelling--Class"></a>
-## 5.5. Sequence Diagrams <a name="Modelling--Sequence"></a>
+## 5.5. Class Diagrams <a name="Modelling--Class"></a>
+## 5.6. Sequence Diagrams <a name="Modelling--Sequence"></a>
 **US003:**<br>
 ![US003 Sequence Diagram](diagrams/sequence/US003.png)
 
