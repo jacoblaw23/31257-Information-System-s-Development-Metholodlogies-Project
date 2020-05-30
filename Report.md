@@ -24,7 +24,7 @@
     * 5.2. [Use Case Diagrams](#Modelling--UseCase)
     * 5.3. [Activity Diagrams](#Modelling--Activity)
     * 5.4. [Class Diagrams](#Modelling--Class)
-    * 5.5. Collaboration or Sequence Diagrams
+    * 5.5. [Sequence Diagrams](#Modelling--Sequence)
 6. [Analysis](#Analysis)
 7. [References](#References)
 8. [Appendix](#Appendix)
@@ -195,8 +195,13 @@ The team have conducted interviews with the stakeholders about the current syste
 ![Profiler Tool](diagrams/ucase/Tool.png)
 
 ## 5.3. Activity Diagrams <a name="Modelling--Activity"></a>
+**US003:**<br>
+![US003 Activity Diagram](diagrams/activity/US003.png)
+
 ## 5.4. Class Diagrams <a name="Modelling--Class"></a>
-## 5.5. Collaboration or Sequence Diagrams <a name=""></a>
+## 5.5. Sequence Diagrams <a name="Modelling--Sequence"></a>
+**US003:**<br>
+![US003 Sequence Diagram](diagrams/sequence/US003.png)
 
 
 # 6. Analysis <a name="Analysis"></a>
