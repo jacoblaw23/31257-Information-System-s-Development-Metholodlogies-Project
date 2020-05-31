@@ -198,7 +198,7 @@ The team have conducted interviews with the stakeholders about the current syste
 
 ## 5.3. Use Case Narratives <a name="Modelling--UseCaseNarratives"></a>
 **US001:**<br>
-![US001 Use Case Narrative](narratives/UC001.doc)
+[US001 narrative.pdf](https://github.com/ankitasingh263/US001/files/4707574/US001.narrative.pdf)
 
 **US003:**<br>
 ![US003 Use Case Narrative](narratives/US003.docx)
@@ -208,7 +208,7 @@ The team have conducted interviews with the stakeholders about the current syste
 
 ## 5.4. Activity Diagrams <a name="Modelling--Activity"></a>
 **US001:**<br>
-![US001 Activity Diagram](diagrams/activity/US001.png)
+![US001 Activity Diagram](https://user-images.githubusercontent.com/62576436/83351355-74dff180-a386-11ea-9aa4-5b2ed4751954.png)
 
 **US003:**<br>
 ![US003 Activity Diagram](diagrams/activity/US003.png)
@@ -221,7 +221,7 @@ The team have conducted interviews with the stakeholders about the current syste
 
 ## 5.6. Sequence Diagrams <a name="Modelling--Sequence"></a>
 **US001:**<br>
-![US001 Sequence Diagram](diagrams/sequence/US001.png)
+![US001 sequence diagram](https://user-images.githubusercontent.com/62576436/83351378-9d67eb80-a386-11ea-8844-e1814871e515.png)
 
 **US003:**<br>
 ![US003 Sequence Diagram](diagrams/sequence/US003.png)
