@@ -208,7 +208,7 @@ The team have conducted interviews with the stakeholders about the current syste
 
 ## 5.4. Activity Diagrams <a name="Modelling--Activity"></a>
 **US001:**<br>
-![US001 Activity Diagram](diagrams/activity/US001.jpg)
+![US001 Activity Diagram](https://user-images.githubusercontent.com/62576436/83351355-74dff180-a386-11ea-9aa4-5b2ed4751954.png)
 
 **UC002:**<br>
 ![UC002 Activity Diagram](diagrams/activity/ActivityDiagramUC002.pdf)
@@ -221,6 +221,7 @@ The team have conducted interviews with the stakeholders about the current syste
 
 ## 5.6. Sequence Diagrams <a name="Modelling--Sequence"></a>
 **US001:**<br>
+![US001 sequence diagram](https://user-images.githubusercontent.com/62576436/83351378-9d67eb80-a386-11ea-8844-e1814871e515.png)
 
 **UC002:**<br>
 ![UC002 Sequence Diagram](diagrams/sequence/SequenceDiagram.jpeg)
