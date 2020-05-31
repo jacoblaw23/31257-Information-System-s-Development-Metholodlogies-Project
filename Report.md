@@ -1,5 +1,5 @@
-# Title
-# Acknowledgements
+![Cover Sheet](assets/Cover%20Sheet.png)
+
 # Executive Summary
 # Contents
 1. [Problem Definition](#Problem)
@@ -7,9 +7,6 @@
 2. [Business Objectives](#Business)
 3. [Stakeholders](#Stakeholders)
     * 3.1. [Empathy Maps](#Empathy)
-        * 3.1.1. [Customer](#Empathy--Customer)
-        * 3.1.2. [Relationship Manager](#Empathy--RM)
-        * 3.1.3. [Branch Manager](#Empathy--BM)
     * 3.2. [POV Statements](#POV)
         * 3.2.1. [Customer](#POV--Customer)
         * 3.2.2. [Relationship Manager](#POV--RM)
@@ -28,7 +25,6 @@
     * 5.6. [Sequence Diagrams](#Modelling--Sequence)
 6. [Analysis](#Analysis)
 7. [References](#References)
-8. [Appendix](#Appendix)
 
 
 # 1. Problem Definition <a name="Problem"></a>
@@ -73,13 +69,13 @@ Stakeholders for the proposed solution are described in the table below.
 ![Stakeholders](diagrams/Stakeholders.jpg)
 
 ## 3.1. Empathy Maps <a name="Empathy"></a>
-### 3.1.1. Customer <a name="Empathy--Customer"></a>
+**Customer:**<br>
 ![Empathy Map - Customer](/diagrams/emaps/Customer.png)
 
-### 3.1.2. Relationship Manager <a name="Empathy--RM"></a>
+**Relationship Manager:**<br>
 ![Empathy Map - Relationship Manager](/diagrams/emaps/RM.jpeg)
 
-### 3.1.3. Branch Manager <a name="Empathy--BM"></a>
+**Branch Manager:**<br>
 ![Empathy Map - Branch Manager](/diagrams/emaps/BM.png)
 
 
@@ -246,4 +242,3 @@ Also, the business has recognised the need to streamline the process and recogni
 The business stands to gain a significant number of customers by innovating and implementing the proposed solution before its competitors. In comparison, the negative consequences of implementing the proposed solution are insignificant. It is recommended that the business implements the proposed solution in a timely manner.
 
 # References <a name="References"></a>
-# Appendix <a name="Appendix"></a>
