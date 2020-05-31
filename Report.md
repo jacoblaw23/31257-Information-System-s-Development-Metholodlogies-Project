@@ -42,7 +42,6 @@ The business seeks to enhance the operation of their in-house call management ce
 * Customers are told to call the next day when calling after hours
 
 **Proposed System:**
-* Customers create unique profiles according to CMC employee instructions before being transferred to RMs
 * CMC employees receive calls when automatic routing is unavailable
 * CMC employees receive calls when automatic routing fails to find a suitable RM
 * The scripts used for sales pitches are created by the business and stored in a fixed location for the system to access
