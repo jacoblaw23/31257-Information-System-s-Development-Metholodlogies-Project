@@ -22,9 +22,10 @@
 5. [Modelling](#Modelling)
     * 5.1. [User Stories](#Modelling--Stories)
     * 5.2. [Use Case Diagrams](#Modelling--UseCase)
-    * 5.3. [Activity Diagrams](#Modelling--Activity)
-    * 5.4. [Class Diagrams](#Modelling--Class)
-    * 5.5. Collaboration or Sequence Diagrams
+    * 5.3. [Use Case Narratives](#Modelling--UseCaseNarratives)
+    * 5.4. [Activity Diagrams](#Modelling--Activity)
+    * 5.5. [Class Diagrams](#Modelling--Class)
+    * 5.6. [Sequence Diagrams](#Modelling--Sequence)
 6. [Analysis](#Analysis)
 7. [References](#References)
 8. [Appendix](#Appendix)
@@ -186,41 +187,44 @@ The team have conducted interviews with the stakeholders about the current syste
 
 
 ## 5.2. Use Case Diagrams <a name="Modelling--UseCase"></a>
-**Customer:**
+**Customer:**<br>
 ![Customer Calls the Business](diagrams/ucase/Customer.png?)
 
-**Relationship Manager:**
+**Relationship Manager:**<br>
 ![RM Making Sales](diagrams/ucase/Business.png)
 
 **Profiler Tool:**<br>
 ![Profiler Tool](diagrams/ucase/Tool.png)
 
-## 5.3. Activity Diagrams <a name="Modelling--Activity"></a>
-![ActivityDiagram](diagrams/ActivityDiagram.jpg)
+## 5.3. Use Case Narratives <a name="Modelling--UseCaseNarratives"></a>
+**US003:**<br>
+![US003 Use Case Narrative](narratives/US003.docx)
 
-## 5.4. Class Diagrams <a name="Modelling--Class"></a>
- ![ClassDiagarm](diagrams/ClassDiagarm.png)
-## 5.5. Collaboration or Sequence Diagrams <a name=""></a>
+## 5.4. Activity Diagrams <a name="Modelling--Activity"></a>
+**US003:**<br>
+![US003 Activity Diagram](diagrams/activity/US003.png)
+
+## 5.5. Class Diagrams <a name="Modelling--Class"></a>
+## 5.6. Sequence Diagrams <a name="Modelling--Sequence"></a>
+**US003:**<br>
+![US003 Sequence Diagram](diagrams/sequence/US003.png)
 
 
 # 6. Analysis <a name="Analysis"></a>
-The process of developing a new information system to improve the operation of the in house call management cenre (CMC) comes with a 
-number of advantages. The incorporation of an upgraded information system allows the CMC to gain a competitive advantage over other
-business's, by differentiating it's services and enhancing the system. A major advantage the CMC gained is the smooth flow of operations. 
-Some more potential benefits for the call centre include the reduction in costs for inbound calls by reducing per-call handling time, 
-decreased manual labour due to more technology, therefore leading to a deduction in operation/administration expenses, such as salaries
-& wages costs. The new system will allow the call centre's ability to carry out more effective and efficient calls, as well as
-improved call routing and dynamic call flow control for both inbound and outbound calls. The ehnanced efficency of operations 
-result in reduction of customer wait times, improved customer service/satisfaction and improved RM performance & skills, all which lead to 
-a boost in customer attraction & loyalty, higher sales of travel packages, ultimately resulting in higher profits.
+The IT solution proposed in this report to improve the operation of the in-house CMC gives the business a competitive edge, compared to similar companies. At present, customers observe a consistent issue with their experiences purchasing products with the business and similar companies: the connected employee is not always capable of providing them with assistance. As a result, customers have the subconscious assumption that this experience cannot be improved. The proposed solution undercuts this assumption, creating a new standard for their interaction with similar companies and, as a result, the business appears to provide better customer service than their competition.
 
-However, whilst there are a number of benefits derived from an upgraded information system, there are also possible 
-adverse effects for the business if its information system project fails.
+The proposed solution also:
+* Automates call flow control
+* Reduces the number of delays customers experience in the process
+* Reduces the number of employees involved in the process
 
-"Identify and discuss the possible adverse effects for this Business if its information system project fails"
+In reducing the above numbers, the proposed solution reduces costs (reduced call-handling time and administrative costs) and allows employees to work on more value-adding tasks. Also, by streamlining the process, it becomes more suited for further automation.
 
-loss of money, can lost customer base
+As described above, the business stands to gain a significant number of customers by being the innovator in customer experience. By not implementing the proposed solution first the business essentially gives up these customers to the competition: the returns from investing into the proposed solution decrease over time, as the risk of competing companies developing similar solutions first increases.
 
+Also, the business has recognised the need to streamline the process and recognised the decreasing quality of their customer experience. The proposed solution is designed to address these concerns, so unless an alternative solution is presented these issues will not be addressed; the customer experience will continue to decline. Considering the scale of the business, it is also possible that some employees will become dissatisfied with their work and leave the business, forcing the business to hire a replacement and introducing more costs. However, it is also possible that some employees will leave the business when they learn their work is being automated.
+
+The business stands to gain a significant number of customers by innovating and implementing the proposed solution before its competitors. In comparison, the negative consequences of implementing the proposed solution are insignificant. It is recommended that the business implements the proposed solution in a timely manner.
 
 # References <a name="References"></a>
 # Appendix <a name="Appendix"></a>
