@@ -197,12 +197,20 @@ The team have conducted interviews with the stakeholders about the current syste
 ![Profiler Tool](diagrams/ucase/Tool.png)
 
 ## 5.3. Use Case Narratives <a name="Modelling--UseCaseNarratives"></a>
+**US001:**<br>
+
+**US002:**<br>
+![UC002 Use case Narrative](narratives/NarrativeUC002.jpg)
+
 **US003:**<br>
 ![US003 Use Case Narrative](narratives/US003.docx)
 
 ## 5.4. Activity Diagrams <a name="Modelling--Activity"></a>
 **US001:**<br>
 ![US001 Activity Diagram](diagrams/activity/US001.jpg)
+
+**UC002:**<br>
+![UC002 Activity Diagram](diagrams/activity/ActivityDiagramUC002.pdf)
 
 **US003:**<br>
 ![US003 Activity Diagram](diagrams/activity/US003.png)
@@ -211,6 +219,11 @@ The team have conducted interviews with the stakeholders about the current syste
 ![Class Diagram](diagrams/Class%20Diagram.png)
 
 ## 5.6. Sequence Diagrams <a name="Modelling--Sequence"></a>
+**US001:**<br>
+
+**UC002:**<br>
+![UC002 Sequence Diagram](diagrams/sequence/SequenceDiagram.jpeg)
+
 **US003:**<br>
 ![US003 Sequence Diagram](diagrams/sequence/US003.png)
 
