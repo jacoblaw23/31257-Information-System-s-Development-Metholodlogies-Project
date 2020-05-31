@@ -24,7 +24,7 @@
     * 5.2. [Use Case Diagrams](#Modelling--UseCase)
     * 5.3. [Use Case Narratives](#Modelling--UseCaseNarratives)
     * 5.4. [Activity Diagrams](#Modelling--Activity)
-    * 5.5. [Class Diagrams](#Modelling--Class)
+    * 5.5. [Class Diagram](#Modelling--Class)
     * 5.6. [Sequence Diagrams](#Modelling--Sequence)
 6. [Analysis](#Analysis)
 7. [References](#References)
@@ -201,10 +201,15 @@ The team have conducted interviews with the stakeholders about the current syste
 ![US003 Use Case Narrative](narratives/US003.docx)
 
 ## 5.4. Activity Diagrams <a name="Modelling--Activity"></a>
+**US001:**<br>
+![US001 Activity Diagram](diagrams/activity/US001.jpg)
+
 **US003:**<br>
 ![US003 Activity Diagram](diagrams/activity/US003.png)
 
-## 5.5. Class Diagrams <a name="Modelling--Class"></a>
+## 5.5. Class Diagram <a name="Modelling--Class"></a>
+![Class Diagram](diagrams/Class%20Diagram.png)
+
 ## 5.6. Sequence Diagrams <a name="Modelling--Sequence"></a>
 **US003:**<br>
 ![US003 Sequence Diagram](diagrams/sequence/US003.png)
