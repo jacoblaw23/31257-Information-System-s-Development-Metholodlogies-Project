@@ -247,3 +247,4 @@ The business stands to gain a significant number of customers by innovating and 
 
 # References <a name="References"></a>
 * Lucidchart. 2020. [Online]. Available at: https://www.lucidchart.com/ [Accessed 31 May 2020].
+* 2020 ‘Lecture 8 - OO Techniques’, 31257, Lecture , UTS, Sydney, <https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&content_id=_3756258_1>
