@@ -210,7 +210,7 @@ The team have conducted interviews with the stakeholders about the current syste
 ![US003 Activity Diagram](diagrams/activity/US003.png)
 
 **US007:**<br>
-![US007 Activity Diagram](diagrams/activity/US007.pdf)
+![US007 Activity Diagram](diagrams/activity/US007.png)
 
 ## 5.5. Class Diagram <a name="Modelling--Class"></a>
 ![Class Diagram](diagrams/Class%20Diagram.png)
