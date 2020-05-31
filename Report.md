@@ -1,5 +1,5 @@
-# Title
-# Acknowledgements
+![Cover Sheet](assets/Cover%20Sheet.png)
+
 # Executive Summary
 # Contents
 1. [Problem Definition](#Problem)
@@ -7,9 +7,6 @@
 2. [Business Objectives](#Business)
 3. [Stakeholders](#Stakeholders)
     * 3.1. [Empathy Maps](#Empathy)
-        * 3.1.1. [Customer](#Empathy--Customer)
-        * 3.1.2. [Relationship Manager](#Empathy--RM)
-        * 3.1.3. [Branch Manager](#Empathy--BM)
     * 3.2. [POV Statements](#POV)
         * 3.2.1. [Customer](#POV--Customer)
         * 3.2.2. [Relationship Manager](#POV--RM)
@@ -28,7 +25,6 @@
     * 5.6. [Sequence Diagrams](#Modelling--Sequence)
 6. [Analysis](#Analysis)
 7. [References](#References)
-8. [Appendix](#Appendix)
 
 
 # 1. Problem Definition <a name="Problem"></a>
@@ -73,13 +69,13 @@ Stakeholders for the proposed solution are described in the table below.
 ![Stakeholders](diagrams/Stakeholders.jpg)
 
 ## 3.1. Empathy Maps <a name="Empathy"></a>
-### 3.1.1. Customer <a name="Empathy--Customer"></a>
+**Customer:**<br>
 ![Empathy Map - Customer](/diagrams/emaps/Customer.png)
 
-### 3.1.2. Relationship Manager <a name="Empathy--RM"></a>
+**Relationship Manager:**<br>
 ![Empathy Map - Relationship Manager](/diagrams/emaps/RM.jpeg)
 
-### 3.1.3. Branch Manager <a name="Empathy--BM"></a>
+**Branch Manager:**<br>
 ![Empathy Map - Branch Manager](/diagrams/emaps/BM.png)
 
 
@@ -198,35 +194,36 @@ The team have conducted interviews with the stakeholders about the current syste
 
 ## 5.3. Use Case Narratives <a name="Modelling--UseCaseNarratives"></a>
 **US001:**<br>
-
-**US002:**<br>
-![UC002 Use case Narrative](narratives/NarrativeUC002.jpg)
+[US001 Use Case Narrative](narratives/US001.pdf)
 
 **US003:**<br>
 ![US003 Use Case Narrative](narratives/US003.docx)
 
+**US007:**<br>
+![US007 Use Case Narrative](narratives/US007.jpg)
+
 ## 5.4. Activity Diagrams <a name="Modelling--Activity"></a>
 **US001:**<br>
-![US001 Activity Diagram](diagrams/activity/US001.jpg)
-
-**UC002:**<br>
-![UC002 Activity Diagram](diagrams/activity/ActivityDiagramUC002.pdf)
+![US001 Activity Diagram](https://user-images.githubusercontent.com/62576436/83351355-74dff180-a386-11ea-9aa4-5b2ed4751954.png)
 
 **US003:**<br>
 ![US003 Activity Diagram](diagrams/activity/US003.png)
+
+**US007:**<br>
+![US007 Activity Diagram](diagrams/activity/US007.png)
 
 ## 5.5. Class Diagram <a name="Modelling--Class"></a>
 ![Class Diagram](diagrams/Class%20Diagram.png)
 
 ## 5.6. Sequence Diagrams <a name="Modelling--Sequence"></a>
 **US001:**<br>
-
-**UC002:**<br>
-![UC002 Sequence Diagram](diagrams/sequence/SequenceDiagram.jpeg)
+![US001 sequence diagram](https://user-images.githubusercontent.com/62576436/83351378-9d67eb80-a386-11ea-8844-e1814871e515.png)
 
 **US003:**<br>
 ![US003 Sequence Diagram](diagrams/sequence/US003.png)
 
+**US007:**<br>
+![US007 Sequence Diagram](diagrams/sequence/US007.jpeg)
 
 # 6. Analysis <a name="Analysis"></a>
 The IT solution proposed in this report to improve the operation of the in-house CMC gives the business a competitive edge, compared to similar companies. At present, customers observe a consistent issue with their experiences purchasing products with the business and similar companies: the connected employee is not always capable of providing them with assistance. As a result, customers have the subconscious assumption that this experience cannot be improved. The proposed solution undercuts this assumption, creating a new standard for their interaction with similar companies and, as a result, the business appears to provide better customer service than their competition.
@@ -245,4 +242,4 @@ Also, the business has recognised the need to streamline the process and recogni
 The business stands to gain a significant number of customers by innovating and implementing the proposed solution before its competitors. In comparison, the negative consequences of implementing the proposed solution are insignificant. It is recommended that the business implements the proposed solution in a timely manner.
 
 # References <a name="References"></a>
-# Appendix <a name="Appendix"></a>
+* Lucidchart. 2020. [Online]. Available at: https://www.lucidchart.com/ [Accessed 31 May 2020].
