@@ -194,7 +194,7 @@ The team have conducted interviews with the stakeholders about the current syste
 
 ## 5.3. Use Case Narratives <a name="Modelling--UseCaseNarratives"></a>
 **US001:**<br>
-[US001 narrative.pdf](https://github.com/ankitasingh263/US001/files/4707574/US001.narrative.pdf)
+[US001 Use Case Narrative](narratives/US001.pdf)
 
 **US003:**<br>
 ![US003 Use Case Narrative](narratives/US003.docx)
@@ -242,3 +242,4 @@ Also, the business has recognised the need to streamline the process and recogni
 The business stands to gain a significant number of customers by innovating and implementing the proposed solution before its competitors. In comparison, the negative consequences of implementing the proposed solution are insignificant. It is recommended that the business implements the proposed solution in a timely manner.
 
 # References <a name="References"></a>
+* Lucidchart. 2020. [Online]. Available at: https://www.lucidchart.com/ [Accessed 31 May 2020].
