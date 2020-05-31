@@ -1,9 +1,9 @@
 ![Cover Sheet](assets/Cover%20Sheet.png)
 
 # Executive Summary
-The in-house call management centre (CMC) of a travel company has decided to improve its current system to adjust the flow rate to suitable Relationship managers (RM). The company has taken into consideration customer complaints. Currently, customers have complained about the poor experiences when being sold travel packages where they were served by a RM who they thought did not have the knowledge for their desired travel package. Additionally, the long waiting period on the inbound calls for customers to connect to a RM had also been identified. 
+The business aims to improve its current in-house call management centre (CMC) system to adjust the flow rate to suitable relationship managers (RM). The business has taken into consideration customer complaints. Currently, customers have complained about the poor experiences when being sold travel packages where they were served by a RM who they thought did not have the knowledge for their desired travel package. Additionally, long waiting periods on inbound calls for customers to connect to a RM have also been identified.
 
-This report highlights the 3 main characteristics the improved system will focus on, Inbound calls, Outbound calls and the profiling tool. It will examine the importance of these 3 characteristics in improving the current system taking into consideration the customer complaints. The proposed system will ask each Relationship Manager and Customer to create profiles through the profiler tool to ensure customers will be matched to the RM within their interests. These profiles will then be stored in a database. Inbound calls will then be forwarded to the RM through the use of the Profiler tool. However, if the RM is unavailable the system will direct the call to an interactive voice response. Similarly, with any outbound calls where the RM contacts potential buyers that are unavailable, the system will leave a message for that potential buyer. 
+This report highlights the 3 main characteristics the improved system will focus on: inbound calls, outbound calls and the supporting profiling tool. It will examine the importance of these characteristics in improving the current system while considering customer complaints. The proposed system will ask each Customer and RM to create profiles using the Profiler Tool to ensure customers will be matched to an appropriate RM. These profiles will then be stored in a database. Inbound calls will be forwarded to the RM through the improved system. However, if no RM is available the system will direct the call to an interactive voice response. Similarly, in any outbound calls where the potential buyer is unavailable, the system will leave a message for that person.
 
 # Contents
 1. [Problem Definition](#Problem)
@@ -247,4 +247,4 @@ The business stands to gain a significant number of customers by innovating and 
 
 # References <a name="References"></a>
 * Lucidchart. 2020. [Online]. Available at: https://www.lucidchart.com/ [Accessed 31 May 2020].
-* 2020 ‘Lecture 8 - OO Techniques’, 31257, Lecture , UTS, Sydney, <https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&content_id=_3756258_1>
+* 2020 ‘Lecture 8 - OO Techniques’, 31257, Lecture , UTS, Sydney. [Online]. Available at: https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&content_id=_3756258_1 [Accessed 31 May 2020].
