@@ -220,7 +220,7 @@ The team have conducted interviews with the stakeholders about the current syste
 
 ## 5.6. Sequence Diagrams <a name="Modelling--Sequence"></a>
 **US001:**<br>
-US001 Activity Diagram.png
+
 **UC002:**<br>
 ![UC002 Sequence Diagram](diagrams/sequence/SequenceDiagram.jpeg)
 
