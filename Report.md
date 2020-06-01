@@ -23,6 +23,7 @@ This report highlights the 3 main characteristics the improved system will focus
         * 3.3.2. [Relationship Manager](#HMW--RM)
         * 3.3.3. [Branch Manager](#HMW--BM)
 4. [Reflection Statement](#Reflection)
+    * 4.1. [Use of Scrum](#Reflection--Scrum)
 5. [Modelling](#Modelling)
     * 5.1. [User Stories](#Modelling--Stories)
     * 5.2. [Use Case Diagrams](#Modelling--UseCase)
@@ -116,6 +117,17 @@ The branch manager needs to improve the customer experience because customers ar
 # 4. Reflection Statement <a name="Reflection"></a>
 The team have conducted interviews with the stakeholders about the current system from their experiences from using the current system. When the team spoke to the customer, they specified that they wanted to speak to the right person that will be able to fulfil their needs, as that appropriate person will be able to match their needs based on the information they provide to that person their speaking with over the phone. The feedback we received from the customer is that the current system has given them a poor experience when purchasing travel packages, also how they are being sold the packages that are available from the travel company is considered to a pain point in their perspective,another thing they mentioned is when they were waiting for more than a certain period of time to speak to the right relationship manager they would just hang up.
 
+## 4.1. Use of Scrum <a name="Reflection--Scrum"></a>
+**Sprint Planning:** Sprint planning was conducted each week during the allocated tutorial session. Group members were assigned tasks to complete during the week and we attempted to identify and remove obstacles where possible.
+
+The IT solution report was developed over several weeks with each week adding more content to the report. Please refer to the below table describing when different sections of the report were started. Diagrams were initially presented internally as drafts and then committed and revised on GitHub in later weeks.
+
+| Week | Content |
+|:----:|---------|
+| 1 | <ul><li>Problem definition</li><li>Assumptions</li><li>Stakeholders</li></ul> |
+| 2 | <ul><li>Report structure</li><li>Business objectives</li><li>User stories</li><li>POV and HMW statements</li><li>Draft diagrams</li></ul> |
+| 3 | <ul><li>Use case diagrams</li><li>Class diagram</li><li>Competitive advantages and disadvantages</li></ul> |
+| 4 | <ul><li>Use case narratives and accompanying diagrams</li><li>Finalise report</li><li>Video presentation</li><li>Executive summary</li></ul> |
 
 # 5. Modelling <a name="Modelling"></a>
 ## 5.1. User Stories <a name="Modelling--Stories"></a>
