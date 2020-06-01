@@ -1,5 +1,8 @@
 ![Cover Sheet](assets/Cover%20Sheet.png)
 
+# Presentation
+https://www.youtube.com/watch?v=G22axvqy-GQ
+
 # Executive Summary
 The business aims to improve its current in-house call management centre (CMC) system to adjust the flow rate to suitable relationship managers (RM). The business has taken into consideration customer complaints. Currently, customers have complained about the poor experiences when being sold travel packages where they were served by a RM who they thought did not have the knowledge for their desired travel package. Additionally, long waiting periods on inbound calls for customers to connect to a RM have also been identified.
 
