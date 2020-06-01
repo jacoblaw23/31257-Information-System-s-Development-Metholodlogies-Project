@@ -59,14 +59,14 @@ The business seeks to enhance the operation of their in-house call management ce
 
 # 2. Business Objectives <a name="Business"></a>
 * Increase response times and reduce abandon rates
-* Increase customer satisfaction
-* Increase the effectiveness of service recovery programs
+* Increase customer satisfaction; customers want fast, positive outcomes. 
+* Increase the effectiveness of service recovery programs; ensures the organisation responds directly customer feedback and the business can quickly implement actions to be taken if the system fails.
 * Increase forecast accuracy; customers should not wait to be connected to the correct RM
 * Increase the probability of successful sales by intelligently matching customers to travel packages
-* Match customers to knowledgable RMs
+* Match customers to knowledgable RMs; ensure customers are paired up with RMs that have similarities and efficient product knowledge.
 * Minimise inbound call costs by reducing per-call handling times
-* Reduce customer wait times
-* Reduce customer effort
+* Reduce customer wait times; customer's shoudn't be placed on hold for too long, the new system aims to make this process easier.
+* Reduce customer effort; make the process for inbound calls easier and smooth for customers.
 
 
 # 3. Stakeholders <a name="Stakeholders"></a>
